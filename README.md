@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ify4luv57
+- 👋 Hi, I’m ifeanyi mgbemena 
 - 👀 I’m interested in ...programming 
 - 🌱 I’m currently learning ...programming with fire academy 
 - 💞️ I’m looking to collaborate on ...
