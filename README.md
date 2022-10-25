@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ify4luv57
-- 👀 I’m interested in ...programming 
+- 👋 Hi, I’m ifeanyi
+- 👀 I’m interested in ...Web programming 
 - 🌱 I’m currently learning ...programming with fire academy 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
